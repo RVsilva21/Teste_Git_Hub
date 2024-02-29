@@ -1,0 +1,15 @@
+/*Aqui será estilizado o Projeto, mas ficará numa branch separada*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    background: #00647e;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px;
+}
